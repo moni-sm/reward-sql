@@ -1,0 +1,10 @@
+node_modules/
+build/
+dist/
+uploads/
+*.zip
+*.rar
+*.exe
+*.env
+.DS_Store
+package-lock.json
